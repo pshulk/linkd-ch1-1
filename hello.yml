@@ -1,4 +1,4 @@
-name: hello
+name: CI
 
 on: [push]
 
